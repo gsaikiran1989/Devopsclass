@@ -1,0 +1,53 @@
+<<<<<<< HEAD
+This  is  first file ..  >>>>
+
+
+Hello this is line  no TWO >>>>
+
+hello  this is  line  3
+
+hello  this is  line4  
+
+<<<<<<< HEAD
+
+++++++++++++++++++++++++++++++++
+
+edited  from feature  22
+
+edited  from feature  22
+edited  from feature  22
+
+edited  from feature  22
+edited  from feature  22
+edited  from feature  22
+
+edited  from feature  22
+=======
+This  is  first file ..  >>>>
+
+
+Hello this is line  no TWO >>>>
+
+hello  this is  line  3
+
+hello  this is  line4
+
+=======
+This  is  first file ..  >>>>
+>>>>>>> parent of 3552224... created  new  file2  and modified   file
+
+
+===========================================================
+
+edited  from feature1
+edited  from feature1
+
+edited  from feature1
+
+edited  from feature1
+
+
+edited  from feature1
+
+>>>>>>> feature1
+
